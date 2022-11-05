@@ -22,6 +22,9 @@ function Menu() {
           <li>
             <Link to="/anime">Anime Gifs</Link>
           </li>
+          <li>
+            <a href="https://github.com/dariogmzfdz/ait-student-full-stack-challenge" target="_blank">GitHub Repo</a>
+          </li>
         </ul>
       </nav>
     </>

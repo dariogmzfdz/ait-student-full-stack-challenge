@@ -100,7 +100,9 @@ function Home() {
             <option value="steins">Steins;Gate</option>
             <option value="chainsaw">Chainsaw Man</option>
             <option value="db">Dragon Ball</option>
-            <option value="jojo">Jojo's</option>
+            <option value="starwars">Star Wars</option>
+            <option value="rickandmorty">Rick and Morty</option>
+            <option value="halo">Halo</option>
           </select>
         </div>
         <label className="container">
